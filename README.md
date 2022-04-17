@@ -49,5 +49,3 @@ It is also advised to the bank to focus more on full-time working customers as t
 By solving the above problems using the key findings and recommended solutions, the bank can function smoothly without any bottlenecks and there are also chances that customers might be retained.
 
 Since retaining credit card customers is a necessity for banks, banks should initiate new schemes or offers to customers based on the customers portfolio and credit score. Accurate predictions are possible with the credit score of a particular customer.
-
-![image](https://user-images.githubusercontent.com/37064981/158218752-482a2bd0-2bee-4cd3-8843-fab1693c7211.png)
